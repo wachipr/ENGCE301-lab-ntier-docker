@@ -14,9 +14,9 @@
 
 ---
 
-![alt text](./.github/screenshots/2.png)
+![alt text](./screenshots/2.png)
 
-รูปภาพสำหรับ Week 7 สามารถดูได้ที่ [.github/screenshots](./.github/screenshots)
+รูปภาพสำหรับ Week 7 สามารถดูได้ที่ [/screenshots](./screenshots)
 
 ## สรุปความรู้ที่ได้
 - **การทำ N-Tier Architecture บน Docker (Week 6):** ได้ทำความเข้าใจถึงประโยชน์ของการใช้ Container ในการแยกสัดส่วนการให้บริการ (เช่น API, Database, และ Reverse Proxy) ออกจากกัน ซึ่งแก้ไขปัญหา Resource หมกมุ่น ลดเวลา Setup และขจัดปัญหา "Works on my machine!" ทำให้เกิด Environment ที่สม่ำเสมอและคล่องตัวเมื่อเทียบกับการ Deploy บน Virtual Machine (VM)
